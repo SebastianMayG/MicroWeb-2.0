@@ -191,6 +191,9 @@
   padding: var(--padding-5xs) 0 0;
   box-sizing: border-box;
 }
+.user-profile-container .tienda{
+  background-color: black;
+}
 .perfil {
   position: relative;
   font-weight: 500;

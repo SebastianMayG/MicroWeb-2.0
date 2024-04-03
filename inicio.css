@@ -5,6 +5,27 @@
   background-color: var(--color-khaki);
   display: none;
 }
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-top: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+  font: bold;
+  width: 100%;
+}
+ul li{
+  display: inline-block;
+  padding: 0px 20px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+
+
 .f-r-a-m-e-child {
   height: 120px;
   width: 1550px;
